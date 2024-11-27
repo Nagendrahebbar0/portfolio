@@ -65,12 +65,12 @@ html,body{
         background-size: cover;
     }
     .resume header::before {
-        background-image:url(bg-home-office-studio.jpg);
+        background-image:url(/bg-home-office-studio.jpg);
         background:rgba(255,255,255,0.9);
         display: block;
         background-size: cover;
         height: 375px;
-        content: 'Jai Sri Ram';
+        content: '';
     }
     .resume header:hover::before {
         background-position: center; /* Change the position on hover */
