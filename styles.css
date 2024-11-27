@@ -65,7 +65,7 @@ html,body{
         background-size: cover;
     }
     .resume header::before {
-        background-image: url(../starter-files/placeholder-images/bg-home-office-city.jpg);
+        background-image: url(bg-home-office-city.jpg);
         display: block;
         background-size: cover;
         height: 375px;
@@ -80,14 +80,14 @@ html,body{
 
 /* Education --------*/
 .education{
-    background-image: url(../starter-files/placeholder-images/bg-gradient.jpg);
+    background-image: url(bg-gradient.jpg);
     background-size: cover;
     padding: 5px;
 }
 
 /*Project ----------*/
 .project{
-    background-image: url(../starter-files/placeholder-images/project-biz-cards-1000px.jpg);
+    background-image: url(project-biz-cards-1000px.jpg);
     background-size: cover;
     padding: 5px;
 }
@@ -100,7 +100,7 @@ html,body{
 
 /*Skills ---------*/
 .skills{
-    background-image: url(../starter-files/placeholder-images/bg-home-office-bookshelf.jpg);
+    background-image: url(bg-home-office-bookshelf.jpg);
     background-size: cover;
     background-color: rgba(255,255,255,0.5);
     color:#f8f8f9;
