@@ -85,6 +85,12 @@ html,body{
     background-size: cover;
     padding: 5px;
 }
+/*Profile --------*/
+.profile{
+    background:rgba(255,255,255,0.9);
+    background-size:cover;
+    padding: 5px;
+}
 
 /*Project ----------*/
 .project{
