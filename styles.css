@@ -59,7 +59,6 @@ html,body{
 
 /*RESUME --------*/
     .resume{
-        background-color: #f6f6f6;
         background-image: url('bg-coffee-shop.jpg');
         background-repeat: no-repeat;
         background-size: cover;
@@ -87,7 +86,6 @@ html,body{
 }
 /*Profile --------*/
 .profile{
-    background: rgba(255,255,255,0.9);
     background-size: cover;
     padding: 5px;
 }
