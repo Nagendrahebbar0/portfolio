@@ -80,17 +80,14 @@ html,body{
 
 /* Education --------*/
 .education{
-    background: rgba(255,255,255,0.9);
     background-size: cover;
     padding: 5px;
 }
 /*Profile --------*/
 .profile{
+    color: rgba(2,255,0,0.1);
     background-size: cover;
     padding: 5px;
-}
-.profile p{
-    color:rgb(0,255,0);
 }
 
 /*Project ----------*/
