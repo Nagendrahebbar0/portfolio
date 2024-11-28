@@ -43,7 +43,7 @@ html,body{
 
 /*HOME --------*/
 .home{
-    background-image: url('/bg-bg-coffee-shop.jpg');
+    background-image: url('bg-bg-coffee-shop.jpg');
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -60,7 +60,7 @@ html,body{
 /*RESUME --------*/
     .resume{
         background-color: #f6f6f6;
-        background-image: url('/bg-coffee-shop.jpg');
+        background-image: url('bg-coffee-shop.jpg');
         background-repeat: no-repeat;
         background-size: cover;
     }
