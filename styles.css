@@ -43,7 +43,7 @@ html,body{
 
 /*HOME --------*/
 .home{
-    background-image: url('bg-bg-coffee-shop.jpg');
+    background-image: url('bg-coffee-shop.jpg');
     background-size: cover;
     display: flex;
     flex-direction: column;
